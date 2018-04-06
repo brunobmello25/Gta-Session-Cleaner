@@ -1,0 +1,7 @@
+C:\Users\bruno\Documents\Bruno\Programacao\Projetos Visual Studio\C#\TesteGta\TesteGta\TesteGta\bin\Debug\TesteGta.exe.config
+C:\Users\bruno\Documents\Bruno\Programacao\Projetos Visual Studio\C#\TesteGta\TesteGta\TesteGta\bin\Debug\TesteGta.exe
+C:\Users\bruno\Documents\Bruno\Programacao\Projetos Visual Studio\C#\TesteGta\TesteGta\TesteGta\bin\Debug\TesteGta.pdb
+C:\Users\bruno\Documents\Bruno\Programacao\Projetos Visual Studio\C#\TesteGta\TesteGta\TesteGta\obj\Debug\TesteGta.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\Bruno\Programacao\Projetos Visual Studio\C#\TesteGta\TesteGta\TesteGta\obj\Debug\TesteGta.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Bruno\Programacao\Projetos Visual Studio\C#\TesteGta\TesteGta\TesteGta\obj\Debug\TesteGta.exe
+C:\Users\bruno\Documents\Bruno\Programacao\Projetos Visual Studio\C#\TesteGta\TesteGta\TesteGta\obj\Debug\TesteGta.pdb
